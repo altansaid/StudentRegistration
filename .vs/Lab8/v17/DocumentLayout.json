@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\WD\\Web Programming 2\\Lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C171F1-D3F9-409A-9132-F7FB16885668}|Lab8.csproj|\\\\mac\\home\\documents\\wd\\web programming 2\\lab8\\registercourse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C171F1-D3F9-409A-9132-F7FB16885668}|Lab8.csproj|\\\\mac\\home\\documents\\wd\\web programming 2\\lab8\\registercourse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C171F1-D3F9-409A-9132-F7FB16885668}|Lab8.csproj|\\\\mac\\home\\documents\\wd\\web programming 2\\lab8\\models\\fulltimestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C171F1-D3F9-409A-9132-F7FB16885668}|Lab8.csproj|\\\\mac\\home\\documents\\wd\\web programming 2\\lab8\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C171F1-D3F9-409A-9132-F7FB16885668}|Lab8.csproj|\\\\mac\\home\\documents\\wd\\web programming 2\\lab8\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterCourse.aspx",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\WD\\Web Programming 2\\Lab8\\RegisterCourse.aspx",
+              "RelativeDocumentMoniker": "RegisterCourse.aspx",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\WD\\Web Programming 2\\Lab8\\RegisterCourse.aspx",
+              "RelativeToolTip": "RegisterCourse.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T14:19:44.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterCourse.aspx.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\WD\\Web Programming 2\\Lab8\\RegisterCourse.aspx.cs",
+              "RelativeDocumentMoniker": "RegisterCourse.aspx.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\WD\\Web Programming 2\\Lab8\\RegisterCourse.aspx.cs",
+              "RelativeToolTip": "RegisterCourse.aspx.cs",
+              "ViewState": "AQIAABoAAADgzMzMzMwgwBkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:51:45.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\WD\\Web Programming 2\\Lab8\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\WD\\Web Programming 2\\Lab8\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:24:37.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FulltimeStudent.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\WD\\Web Programming 2\\Lab8\\Models\\FulltimeStudent.cs",
+              "RelativeDocumentMoniker": "Models\\FulltimeStudent.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\WD\\Web Programming 2\\Lab8\\Models\\FulltimeStudent.cs",
+              "RelativeToolTip": "Models\\FulltimeStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:20:26.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\WD\\Web Programming 2\\Lab8\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\WD\\Web Programming 2\\Lab8\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:26:54.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
